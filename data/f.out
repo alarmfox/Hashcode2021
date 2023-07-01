@@ -1,1230 +1,613 @@
 10
 0
-new 
-move sjg 10
-new 
-move sfi 22
-new 
-move seb 32
-new 
-move sea 42
-new 
-move scf 51
-new 
-move scc 60
-new 
-move sbf 62
-new 
-move sbd 68
-1
-new 
-move sij 11
-new 
-move sid 23
-new 
-move sib 33
-new 
-move shh 44
-new 
-move sfg 54
-new 
-move sdi 63
-new 
-move sdb 71
-new 
-move sci 76
-new 
-move sbj 81
-2
-new 
-move sji 12
-new 
-move sia 27
-new 
-move shi 38
-new 
-move sgh 50
-new 
-move sfc 61
-new 
-move seg 69
-new 
-move sef 80
-new 
-move sec 86
-new 
-move sdh 88
-new 
-move scg 91
-3
-new 
-move shg 13
-new 
-move sgf 24
-new 
-move sga 34
-new 
-move sfh 45
-new 
-move sfe 55
-new 
-move sfa 64
-new 
-move sdc 72
-new 
-move sbg 77
-new 
-move sj 82
-4
-new 
-move sjd 14
-new 
-move sie 21
-new 
-move shj 31
-new 
-move sha 39
-new 
-move sgj 46
-new 
-move sdf 52
-new 
-move sdd 58
-5
-new 
-move sjj 15
-new 
-move sih 29
-new 
-move sic 43
-new 
-move shc 59
-new 
-move shb 70
-new 
-move sgi 83
-new 
-move sff 89
-new 
-move sej 93
-new 
-move sdg 95
-new 
-move sch 97
-new 
-move scb 98
-new 
-move sbc 99
-6
-new 
-move sje 16
-new 
-move sjc 25
-new 
-move sjb 35
-new 
-move sgg 47
-new 
-move sgc 56
-new 
-move see 65
-new 
-move sdj 73
-new 
-move sbe 78
-new 
-move sba 84
-7
-new 
-move sii 17
-new 
-move sig 28
-new 
-move sif 40
-new 
-move shf 53
-new 
-move shd 67
-new 
-move sgd 75
-new 
-move sfj 87
-new 
-move sei 90
-new 
-move sed 92
-new 
-move sde 94
-new 
-move scj 96
-8
-new 
-move sjf 18
-new 
-move she 26
-new 
-move sgb 36
-new 
-move sfb 48
-new 
-move seh 57
-new 
-move sda 66
-new 
-move sce 74
-new 
-move sbh 79
-new 
-move sg 85
-9
-new 
-move sjh 19
-new 
-move sja 20
-new 
-move sge 30
-new 
-move sfd 37
-new 
-move sca 41
-new 
-move sbi 49
-wait 3
-impl sbafaddd 40
-move sif 40
-wait 22
-move sc 79
-move she 79
-move sga 79
-move sjh 79
-move sb 79
-move shg 79
-wait 4
-move sde 79
-move shh 79
-impl sgeijghc 79
-move sbh 79
-move sej 79
-impl sehddhbh 79
-move sej 93
-impl sgdebdah 47
-move sgg 47
-impl sfgcajea 76
-move sci 76
-impl sbdibjgd 75
-move sgd 75
-impl sejifija 91
-move scg 91
-impl sgeafegc 27
-move sia 27
-impl sieihgfh 3
-move sh 3
-impl sgfdeffc 17
-move sii 17
-impl sdbbcjjj 53
-move shf 53
-impl sfajaaii 8
-move sf 8
-impl sfhiidji 18
-move sjf 18
-impl scbfcbhh 84
-move sba 84
-impl sbfjdci 67
-move shd 67
-impl scabiidb 5
-move se 5
-impl sfjifhbc 84
-move sba 84
-impl sfacahjb 59
-move shc 59
-impl sgddcfa 36
-move sgb 36
-impl sfieaaja 74
-move sce 74
-impl seceiaea 64
-move sfa 64
-impl sibheggi 60
-move scc 60
-impl sigbaghd 55
-move sfe 55
-move sbf 96
-impl sfiijjei 96
-move scj 96
-move sbf 62
-move sbf 62
-impl sfhafaie 68
-move sbd 68
-impl sgghegij 25
-move sjc 25
+wait 6
+impl sbdibjgd 7
+wait 1
+impl sffchab 7
 impl shhaice 1
-move si 1
-move sj 54
-impl scaahd 54
-move sfg 54
-move sj 82
-move sj 82
-impl sehaidad 18
-move sjf 18
-impl sieffade 72
-move sdc 72
-impl scceigah 68
-move sbd 68
-impl segeacbg 73
-move sdj 73
-impl shccaijg 62
-move sbf 62
-impl sichcbeb 38
-move shi 38
-impl sjihbibd 29
-move sih 29
-impl sgjcfhah 46
-move sgj 46
-impl seefaejg 5
-move se 5
-impl sdiecdhj 90
-move sei 90
-impl sejhadfg 86
-move sec 86
-impl sfddjhfb 60
-move scc 60
-impl sbfhgghj 70
-move shb 70
-impl sjafgadj 10
-move sjg 10
-move sjb 75
-impl sdfjfhed 75
-move sgd 75
-move sjb 35
-move sjb 35
-impl sebccbda 68
-move sbd 68
-impl sbgibjcd 45
-move sfh 45
-impl sdcebadc 78
-move sbe 78
-impl sfiadbjh 74
-move sce 74
-impl sbchafbb 28
-move sig 28
-impl sdhgdffi 61
-move sfc 61
-move sgh 73
-impl scjjfjii 73
-move sdj 73
-move sgh 50
-move sgh 50
-impl sjiiidba 91
-move scg 91
-impl scfafehg 40
-move sif 40
-impl sfechbij 71
-move sdb 71
-move sjd 75
-impl sihiebfc 75
-move sgd 75
-move sjd 14
-move sjd 14
-impl siegjghj 22
-move sfi 22
-move sjj 22
-impl scajhejh 22
-move sfi 22
-move sjj 15
-move sjj 15
-impl sjghdibi 80
-move sef 80
-impl siafjbch 49
-move sbi 49
-move sbi 95
-move sgj 95
-impl seefeeca 95
-move sdg 95
-move sgj 46
-move sbi 49
-move sgj 46
-move sbi 49
-impl shchfbj 57
-move seh 57
-move sfe 1
-impl scgfgifj 1
-move si 1
-move sfe 55
-move sfe 55
-impl scbabaea 14
-move sjd 14
-move sih 25
-impl sdhdibae 25
-move sjc 25
-move sih 29
-move sih 29
-impl sdeeggdc 17
-move sii 17
-impl secjffhi 6
-move sd 6
-impl shddgdia 71
-move sdb 71
-impl sehehchh 53
-move shf 53
-impl shhehifh 32
-move seb 32
-impl shdiaffg 25
-move sjc 25
-impl sbdiibfd 50
-move sgh 50
-impl scbedcaj 42
-move sea 42
-impl sdefacab 24
-move sgf 24
-impl sdiidehf 11
-move sij 11
-move sce 16
-move sec 16
-impl shgdfiff 16
-move sje 16
-move sec 86
-move sce 74
-move sec 86
-move sce 74
-impl siffgbce 71
-move sdb 71
-impl shaeaghc 33
-move sib 33
-move sdh 17
-impl sdgbfaca 17
-move sii 17
-move sdh 88
-move sdh 88
-impl sccggid 56
-move sgc 56
-impl sjcchchi 48
-move sfb 48
-move sed 18
-impl sfjfcii 18
-move sjf 18
-move sed 92
-move sed 92
-impl sicaaahc 99
-move sbc 99
-impl sgijgdej 32
-move seb 32
-impl sggbdfb 93
-move sej 93
-move scg 78
-move sbg 78
-impl sjejcaaa 78
-move sbe 78
-move sbg 77
-move scg 91
-move sbg 77
-move scg 91
-move sce 4
-impl sjdebied 4
-move sa 4
-move sce 74
-move sce 74
-move seg 93
-impl sbgjefig 93
-move sej 93
-move seg 69
-move seg 69
-impl sfabidad 86
-move sec 86
-impl sbjcbiie 99
-move sbc 99
-impl sgbiaahf 53
-move shf 53
-move sbg 2
-impl sbgaaeij 2
-move sbb 2
-move sbg 77
-move sbg 77
-impl sjcidbdb 99
-move sbc 99
-impl sidaihia 73
-move sdj 73
+wait 31
+impl sgghegij 6
+wait 9
+impl sieffade 3
+wait 12
+impl sjghdibi 2
+wait 2
+impl sgjcfhah 4
+impl sdhdibae 5
+wait 2
+impl scjjfjii 2
+wait 13
+impl scajhejh 5
+wait 8
+impl sfehdage 3
+wait 1
+impl sidaihia 6
+wait 5
+impl sbgaaeij 3
+wait 5
+impl sdgbfaca 7
+wait 6
+impl shhfgafg 1
+wait 11
+impl sdiidehf 1
+wait 3
+impl sgcebgde 5
+wait 27
+impl sejageeb 7
+wait 5
+impl shgdfiff 8
+wait 2
+impl sfjfcii 8
+wait 15
+impl sjjgcgch 7
+wait 8
+impl sihijeh 4
+wait 5
+impl sdeagce 4
+wait 3
+impl sfgcggaj 3
+wait 9
+impl shfedach 5
+wait 4
+impl sehjccgg 4
+impl sjejhchd 1
+wait 6
+impl sghhighf 3
+wait 5
+impl sfhjeche 7
+wait 4
+impl sieaecc 0
+wait 7
+impl sdhcbjd 4
+wait 17
+impl sdeiddij 6
+wait 3
+impl sdaccfjc 2
+1
+wait 2
+impl sdagfad 0
+wait 17
+impl sgheheeb 3
+wait 4
+impl sjfdhija 0
+wait 3
+impl sfhafaie 0
+wait 7
+impl sichcbeb 2
+wait 3
+impl shebhgfb 9
+wait 2
+impl sgccjbeh 1
+wait 7
+impl scaahd 3
+wait 2
+impl sehaidad 8
+wait 4
+impl sbchafbb 7
+wait 5
+impl sbgibjcd 3
+wait 2
+impl sedcffgd 5
+wait 4
+impl shibfaef 8
+impl sfegjfbc 9
+wait 4
+impl shaeaghc 1
+wait 33
+impl sccggid 6
+wait 2
+impl sbaejjca 0
+impl sgaaigdh 3
+wait 13
+impl sejageeb 6
+wait 4
+impl sijajcbg 4
+wait 4
+impl sjejcaaa 3
+wait 1
+impl sfajabc 2
+wait 5
+impl sdcicggf 5
+wait 15
+impl sciahhgh 3
+wait 8
+impl sbdhdgib 3
+wait 4
+impl sjjbfgaf 8
+wait 10
+impl sehjccgg 1
+wait 3
+impl sfidfaeg 1
+wait 1
+impl sdbffihc 3
+wait 1
+impl sghhighf 9
+impl sfhjeche 0
+impl sgeeeagd 7
+wait 1
+impl shjigjeh 8
+wait 1
+impl siifdjig 7
+wait 2
+impl segfafcb 8
+wait 3
+impl sfifafhi 4
+2
+wait 8
+impl sfjedicb 8
+wait 5
+impl sfacahjb 5
+wait 15
+impl sgegdgfj 9
+wait 2
+impl sfhiidji 8
+wait 24
+impl sfiijjei 0
+impl sigbaghd 3
+wait 22
+impl sejjdhga 5
+wait 1
+impl siffgbce 1
+impl sieaaicd 3
+wait 23
+impl sfechbij 1
+wait 10
+impl sihiebfc 4
+wait 5
+impl sbedchbg 6
+wait 3
+impl sfegaiag 0
+wait 8
+impl schaacfc 8
+wait 2
+impl sbaejjca 6
+impl sbgjefig 2
+wait 7
+impl sfgjebdd 3
+impl sgfbbeeb 3
+wait 12
+impl sjejcaaa 6
+wait 4
+impl shebeaab 5
+wait 10
+impl sihijeh 9
+impl sdcegfed 6
+wait 8
+impl sceeege 1
+wait 5
+impl sjjbfgaf 5
+wait 3
+impl shfgffac 8
+wait 2
+impl sfidfaeg 8
+wait 2
+impl sdbffihc 6
+wait 9
+impl sfdjahdj 5
+wait 3
+impl sfgjchfh 6
+wait 3
+impl sbdbbfai 7
+wait 5
+impl sjggedcd 6
+wait 8
+impl segdecbi 1
+3
+wait 9
+impl sfgddgee 3
+wait 3
+impl sfgcgj 3
+wait 6
+impl sgeafegc 2
+wait 3
+impl sdbbcjjj 7
+wait 15
+impl segeacbg 6
+wait 1
+impl scagajba 3
+wait 3
+impl scaahd 1
+wait 5
+impl shhehifh 0
+wait 18
+impl scjjfjii 6
+wait 2
+impl sdfjfhed 6
+wait 5
+impl siafjbch 9
+wait 20
+impl sdfaiadc 3
+wait 1
 impl sejigcjc 3
-move sh 3
-impl sgfijhca 15
-move sjj 15
-move sbj 64
-impl scdbbbgi 64
-move sfa 64
-move sbj 81
-move sbj 81
-impl sgccjbeh 81
-move sbj 81
-move sj 76
-impl sciahhgh 76
-move sci 76
-move sj 82
-move sj 82
-impl schaacfc 74
-move sce 74
-impl sgbaidj 47
-move sgg 47
-impl sgfbbeeb 72
-move sdc 72
-impl sjfhaeag 76
-move sci 76
-move sf 21
-impl sigedhfi 21
-move sie 21
-move sf 8
-move sf 8
-impl shcaaedf 37
-move sfd 37
-impl sbgcibjg 23
-move sid 23
-move sdc 65
-move sbf 65
-impl sfgcggaj 65
-move see 65
-move sbf 62
-move sdc 72
-move sbf 62
-move sdc 72
-move sfa 80
-move sii 80
-impl sjjgcgch 80
-move sef 80
-move sii 17
-move sfa 64
-move sii 17
-move sfa 64
-move sed 48
-move si 48
-impl sfidfaeg 48
-move sfb 48
-move si 1
-move sed 92
-move si 1
-move sed 92
-impl shbfagif 31
-move shj 31
-impl sjbabeja 35
-move sjb 35
-impl sdbdiajg 51
-move scf 51
-impl sedbgfdd 69
-move seg 69
-impl siebdad 7
-move scd 7
-move sfd 98
-impl sfdjahdj 98
-move scb 98
-move sfd 37
-move sfd 37
-impl sbdbbfai 92
-move sed 92
-move sge 69
-move sfi 69
-impl sbdeddid 69
-move seg 69
-move sfi 22
-move sge 30
-move sfi 22
-move sge 30
-impl sjibggjf 82
-move sj 82
-move sff 32
-move sie 32
-impl sdhcbjd 32
-move seb 32
-move sie 21
-move sff 89
-move sie 21
-move sff 89
-impl sdgbcijb 75
-move sgd 75
-impl sechehea 42
-move sea 42
-move sdj 87
-impl sdcegfed 87
-move sfj 87
-move sdj 73
-move sdj 73
-impl sjggedcd 65
-move see 65
-impl shibfaef 57
-move seh 57
-impl sidbiffh 33
-move sib 33
-impl sehcafdd 20
-move sja 20
-impl sgaaigdh 72
-move sdc 72
-impl sgdicide 1
-move si 1
-impl sjbcghib 96
-move scj 96
-impl seecffgc 65
-move see 65
-impl sijajcbg 39
-move sha 39
-impl sdaccfjc 12
-move sji 12
-move sjb 72
-impl sdbffihc 72
-move sdc 72
-move sjb 35
-move sjb 35
-impl shebhgfb 20
-move sja 20
-move sef 47
-impl sfjfeica 47
-move sgg 47
-move sef 80
-move sef 80
-impl sdbecahi 51
-move scf 51
-move sfe 57
-impl shjigjeh 57
-move seh 57
-move sfe 55
-move sfe 55
-move sjb 27
-move sih 27
-impl sfhccjjf 27
-move sia 27
-move sih 29
-move sjb 35
-move sih 29
-move sjb 35
-move shd 30
-impl sehge 30
-move sge 30
-move shd 67
-move shd 67
-impl sebgejjg 49
-move sbi 49
-impl sgfbigbi 12
-move sji 12
-impl segfafcb 85
-move sg 85
-impl sgaafgah 50
-move sgh 50
-move sgb 70
-impl sjjbfgaf 70
-move shb 70
-move sgb 36
-move sgb 36
-impl sdfdeggh 10
-move sjg 10
-impl scaaiace 46
-move sgj 46
-move sji 18
-impl sbjijffc 18
-move sjf 18
-move sji 12
-move sji 12
-impl shdiaaea 97
-move sch 97
-impl siheijh 24
-move sgf 24
-move shj 49
-impl sbafjdeh 49
-move sbi 49
-move shj 31
-move shj 31
-move sgh 72
-impl shbajheb 72
-move sdc 72
-move sgh 50
-move sgh 50
-move sbi 36
-impl sdicbgdc 36
-move sgb 36
-move sbi 49
-move sbi 49
-impl sdeagce 39
-move sha 39
-impl sffedddg 12
-move sji 12
-move sfc 38
-move sgd 38
-impl sgjbfbgh 38
-move shi 38
-move sgd 75
-move sfc 61
-move sgd 75
-move sfc 61
-impl sdfehbg 49
-move sbi 49
-impl sfhcjabf 5
-move se 5
-move sfd 55
-impl sfgjebdd 55
-move sfe 55
-move sfd 37
-move sfd 37
-move sjc 74
-move sbf 74
-move sea 74
-impl sbaejjca 74
-move sce 74
-move sea 42
-move sbf 62
-move sjc 25
-move sea 42
-move sbf 62
-move sjc 25
-impl sbidhabf 4
-move sa 4
-impl sheijggg 24
-move sgf 24
-move sbj 62
-impl shddcbgg 62
-move sbf 62
-move sbj 81
-move sbj 81
-impl scicfedc 10
-move sjg 10
-impl sdeiddij 65
-move see 65
-impl sdegagfj 50
-move sgh 50
-move sib 71
-impl sichffdi 71
-move sdb 71
-move sib 33
-move sib 33
-impl sgdegcab 29
-move sih 29
-move se 52
-impl siiijbah 52
-move sdf 52
-move se 5
-move se 5
-impl sbgcbebh 41
-move sca 41
-impl sdicdgde 51
-move scf 51
-impl sejjdhga 29
-move sih 29
+wait 5
+impl seefeeca 5
+wait 7
+impl shhfgafg 5
+impl secjffhi 6
+wait 3
+impl sgcebgde 1
+wait 5
+impl scbedcaj 0
+wait 1
+impl sejageeb 9
+wait 4
+impl shgdfiff 2
+wait 2
+impl sdbecahi 0
+wait 6
+impl sjcchchi 8
+wait 6
+impl sebgejjg 9
+wait 6
+impl shcaaedf 9
+impl sjibggjf 3
+wait 5
+impl sehge 7
+wait 4
+impl shgfhhjf 6
+wait 2
+impl seacaejh 9
+wait 11
+impl sfjfeica 2
+wait 1
+impl sdicccaa 4
+wait 3
+impl sheijggg 3
 impl sibcacgc 8
-move sf 8
-impl sfeaidgf 24
-move sgf 24
-move sej 38
-impl sfdcabbj 38
-move shi 38
-move sej 93
-move sej 93
-move sba 66
-impl scgdceaj 66
-move sda 66
-move sba 84
-move sba 84
-impl sedcffgd 89
-move sff 89
-impl shdfahig 4
-move sa 4
-impl siheibi 83
-move sgi 83
-move sih 92
-move sce 92
-move sjd 92
-impl scgibhhc 92
-move sed 92
-move sjd 14
-move sce 74
-move sih 29
-move sjd 14
-move sce 74
-move sih 29
-impl segcacdd 15
-move sjj 15
-impl sdigihdh 83
-move sgi 83
-move sdh 38
-impl scbhjfda 38
-move shi 38
-move sdh 88
-move sdh 88
-impl sgfehcfg 55
-move sfe 55
-impl siifdjig 92
-move sed 92
-impl sgecebfa 16
-move sje 16
-move sff 7
-impl sdgebdaf 7
-move scd 7
-move sff 89
-move sff 89
-move sdi 41
-impl shciihf 41
-move sca 41
-move sdi 63
-move sdi 63
-impl shgfhhjf 73
-move sdj 73
-impl shbbahca 11
-move sij 11
-impl sceeege 11
-move sij 11
-move sha 20
-impl sihijeh 20
-move sja 20
-move sha 39
-move sha 39
-impl sgjeajad 43
-move sic 43
-move sbd 59
-move sjd 59
-move sfh 59
-impl shejehii 59
-move shc 59
-move sfh 45
-move sjd 14
-move sbd 68
-move sfh 45
-move sjd 14
-move sbd 68
-impl sbjfdgei 73
-move sdj 73
-impl shihcjbb 66
-move sda 66
-impl sbbbddjg 48
-move sfb 48
-impl sjajfhci 41
-move sca 41
-impl shebeaab 59
-move shc 59
-impl sgdhgdfd 97
-move sch 97
-impl shhiejbb 88
-move sdh 88
-move sfg 16
-impl sibidigh 16
-move sje 16
-move sfg 54
-move sfg 54
-move see 67
-impl scbaebgj 67
-move shd 67
-move see 65
-move see 65
-impl sfcjecgg 91
-move scg 91
-impl sefjhjcj 28
-move sig 28
-move sja 57
-impl shhfghai 57
-move seh 57
-move sja 20
-move sja 20
-impl sfjaiigd 81
-move sbj 81
-move sgc 6
+wait 4
+impl sdjiabeh 6
+4
+wait 14
+impl sjeieggi 9
+wait 20
+impl sfajaaii 8
+wait 6
+impl scabiidb 5
+wait 14
+impl scbhjfda 2
+wait 20
+impl sdegagfj 2
+wait 5
+impl sjihbibd 5
+wait 2
+impl sdhdibae 6
+wait 2
+impl shdbfihe 9
+wait 8
+impl scgfgifj 3
+wait 4
+impl sjiiidba 2
+wait 11
+impl scaeihaf 9
+wait 6
+impl sfegjfbc 7
+wait 11
+impl sehehchh 7
+wait 6
+impl shchfbj 8
+wait 4
+impl sbbaeccb 0
+wait 11
+impl sigedhfi 4
+wait 2
+impl sgfijhca 5
+wait 2
+impl shgdfiff 6
+wait 2
+impl sfjfcii 7
+wait 3
+impl sfajabc 8
+wait 1
+impl sicaaahc 5
+wait 4
+impl sciahhgh 1
+wait 2
+impl sfgcggaj 0
+wait 18
+impl sdfdeggh 0
+wait 18
+impl sfidfaeg 7
+wait 10
+impl sbdeddid 0
+wait 2
+impl scbaebgj 6
+wait 11
+impl sfgjchfh 5
+wait 2
+impl sigdbhbb 2
+impl sgaddfae 1
+wait 30
+impl sibjichj 8
+5
+wait 51
+impl sgddcfa 8
+wait 2
+impl sfieaaja 8
+wait 1
+impl sbfjdci 7
+wait 1
+impl sibheggi 0
+wait 6
+impl sgehebjg 7
+wait 6
+impl sbdiibfd 2
+wait 22
+impl sebccbda 0
+wait 3
+impl scajhejh 0
+wait 3
+impl sidgjedf 8
+wait 18
+impl scdbbbgi 3
+wait 6
+impl sdefacab 3
+impl sgijgdej 0
+wait 5
+impl seaijjai 5
+wait 5
+impl shdiaffg 6
+impl sigedhfi 8
+wait 7
+impl sfabidad 2
+wait 6
+impl sgbaidj 6
+wait 5
+impl sgfafedb 8
+wait 8
+impl scifdfjb 1
+wait 18
+impl sbdhdgib 0
+wait 22
+impl sbgcibjg 1
+wait 3
+impl sbbhicdg 5
+wait 5
+impl sbdeddid 9
+wait 1
+impl scbaebgj 7
+wait 1
+impl sgeeeagd 2
+wait 18
+impl sdicccaa 5
+wait 6
+impl sffjacbg 5
+wait 5
+impl sehcafdd 9
+6
+wait 4
+impl sgcebbbg 9
+wait 2
+impl sejifija 2
+wait 1
+impl sgdebdah 6
+wait 4
+impl sgfdeffc 7
+wait 4
+impl seceiaea 3
+wait 1
+impl sdiecdhj 7
+wait 5
+impl shdiaaea 5
+wait 35
+impl scceigah 0
+wait 23
+impl scgfgifj 1
+wait 9
 impl sfaadcbg 6
-move sd 6
-move sgc 56
-move sgc 56
-impl sdjeddij 71
-move sdb 71
-impl sbighecc 71
-move sdb 71
-move sd 39
-impl sjghdjfg 39
-move sha 39
-move sd 6
-move sd 6
-move sfb 62
-impl seibbgfg 62
-move sbf 62
-move sfb 48
-move sfb 48
-impl sccaiege 57
-move seh 57
-impl sfifafhi 52
-move sdf 52
-impl sfdeeidj 27
-move sia 27
-impl shfgffac 18
-move sjf 18
-impl shfbffcb 80
-move sef 80
-impl sfifidfe 39
-move sha 39
-impl sbibdcbj 74
-move sce 74
-impl sigaicab 11
-move sij 11
-move sbe 36
-impl sjiiieic 36
-move sgb 36
-move sbe 78
-move sbe 78
-impl sfcihjch 64
-move sfa 64
-impl scidjdhd 86
-move sec 86
-move sgh 72
-move sa 72
-impl sjdbefgd 72
-move sdc 72
-move sa 4
-move sgh 50
-move sa 4
-move sgh 50
-impl sdjhiae 6
-move sd 6
-impl sgdffade 11
-move sij 11
-impl siibaccd 90
-move sei 90
-move sd 16
-impl sbedchbg 16
-move sje 16
-move sd 6
-move sd 6
-impl sgjdhihh 45
-move sfh 45
-impl shaefcca 35
-move sjb 35
-impl shffgjaf 50
-move sgh 50
-impl sgficjbg 7
-move scd 7
-move shd 53
-move sgi 53
-move sea 53
-impl sfhjeche 53
-move shf 53
-move sea 42
-move sgi 83
-move shd 67
-move sea 42
-move sgi 83
-move shd 67
-move sea 72
-move scg 72
-move sgi 72
-impl shcdfji 72
-move sdc 72
-move sgi 83
-move scg 91
-move sea 42
-move sgi 83
-move scg 91
-move sea 42
-impl sdbifjfg 18
-move sjf 18
-impl sgdgcjdd 42
-move sea 42
-move shd 74
-move sgi 74
-impl sfehdfjf 74
-move sce 74
-move sgi 83
-move shd 67
-move sgi 83
-move shd 67
-move sdh 4
-impl sibihefg 4
-move sa 4
-move sdh 88
-move sdh 88
-impl sbdagfbc 22
-move sfi 22
-impl sigicfcc 12
-move sji 12
-move sej 66
-move sdc 66
-move shj 66
-impl sbbfafhg 66
-move sda 66
-move shj 31
-move sdc 72
-move sej 93
-move shj 31
-move sdc 72
-move sej 93
-impl shdbfihe 30
-move sge 30
-impl sdbiiedc 57
-move seh 57
-impl siefaecj 81
-move sbj 81
-move sbc 39
-move sbe 39
-impl sbcijigd 39
-move sha 39
-move sbe 78
-move sbc 99
-move sbe 78
-move sbc 99
-impl sfaaiefc 28
-move sig 28
-impl shdjchh 11
-move sij 11
-impl sihjchhb 89
-move sff 89
-move sgi 12
-impl scahhjac 12
-move sji 12
-move sgi 83
-move sgi 83
-impl sdbdgc 66
-move sda 66
-impl sffhhgbe 31
-move shj 31
-move sbb 99
-impl sghahag 99
-move sbc 99
-move sbb 2
-move sbb 2
-move sg 3
-impl sjbahffg 3
-move sh 3
-move sg 85
-move sg 85
-impl sfaefghi 24
-move sgf 24
-move sjj 21
-impl sjhjgdgd 21
-move sie 21
-move sjj 15
-move sjj 15
-move sjg 59
-move sha 59
-impl seecdjdh 59
-move shc 59
-move sha 39
-move sjg 10
-move sha 39
-move sjg 10
+wait 4
+impl sjcidbdb 5
+wait 4
+impl sihiebfc 7
+wait 6
+impl sdgbfaca 2
+impl scaaiace 4
+impl sbjfdgei 6
+wait 6
+impl sgbiaahf 7
+wait 7
+impl sgicjcab 5
+wait 2
+impl sfgjebdd 9
+wait 6
+impl shdjdgjf 2
+impl seibbgfg 8
+wait 2
+impl sjejcaaa 2
+wait 12
+impl sjjgcgch 2
+wait 8
+impl sfchfich 7
+wait 5
+impl shihcjbb 8
+wait 2
+impl sfgcggaj 6
+wait 5
+impl sjfhaeag 1
+wait 5
+impl sjjjjhjd 3
 wait 1
-move sic 59
-move sjf 59
-impl sffjacbg 59
-move shc 59
-move sjf 18
-move sic 43
-move sjf 18
-move sic 43
-impl shfefaec 60
-move scc 60
-impl sjejdfhb 23
-move sid 23
-impl sedchhjd 5
-move se 5
-move sig 86
-move sg 86
-impl sebdcfig 86
-move sec 86
-move sg 85
-move sig 28
-move sg 85
-move sig 28
-move sej 55
-move sbd 55
-move sbi 55
-impl sdajdhch 55
-move sfe 55
-move sbi 49
-move sbd 68
-move sej 93
-move sbi 49
-move sbd 68
-move sej 93
+impl sjejdfhb 1
+impl seecffgc 6
 wait 1
-impl seehijig 55
-move sfe 55
-impl sdaebeca 60
-move scc 60
-move sfi 43
-impl sgeeheea 43
-move sic 43
-move sfi 22
-move sfi 22
-move sgc 88
-move sbe 88
-move sgi 88
-impl sbcbdbig 88
-move sdh 88
-move sgi 83
-move sbe 78
-move sgc 56
-move sgi 83
-move sbe 78
-move sgc 56
-impl sciidbdb 60
-move scc 60
-impl scjjcije 24
-move sgf 24
-impl sdaijeed 23
-move sid 23
-move sdj 6
-move sbf 6
-move sg 6
-impl sedigaii 6
-move sd 6
-move sg 85
-move sbf 62
-move sdj 73
-move sg 85
-move sbf 62
-move sdj 73
-move sic 21
-impl shgigeeb 21
-move sie 21
-move sic 43
-move sic 43
+impl sfjfeica 6
+wait 4
+impl sdhcbjd 0
+impl sfhccjjf 6
+wait 7
+impl sgdffade 1
+wait 12
 impl sefdcihh 2
-move sbb 2
-move shi 73
-impl shjcjihi 73
-move sdj 73
-move shi 38
-move shi 38
-impl sehgdfed 70
-move shb 70
-impl sgbgagge 5
-move se 5
-move sfa 1
-move sic 1
-impl sdehibhi 1
-move si 1
-move sic 43
-move sfa 64
-move sic 43
-move sfa 64
-move sbi 74
-move sgd 74
-impl sbfaefie 74
-move sce 74
-move sgd 75
-move sbi 49
-move sgd 75
-move sbi 49
-move sbi 40
-impl sjgcbdhf 40
-move sif 40
-move sbi 49
-move sbi 49
-move sdf 63
-impl shecjifb 63
-move sdi 63
-move sdf 52
-move sdf 52
-impl sjjjaeea 59
-move shc 59
-move shf 16
-impl shibfhed 16
-move sje 16
-move shf 53
-move shf 53
-move sig 64
-impl sgeecbed 64
-move sfa 64
-move sig 28
-move sig 28
-impl shhjdida 57
-move seh 57
-impl sgbjgied 32
-move seb 32
-move sh 31
-impl sdegeejd 31
-move shj 31
-move sh 3
-move sh 3
-move sef 15
-impl shggdgfd 15
-move sjj 15
-move sef 80
-move sef 80
-impl seacidfi 49
-move sbi 49
-impl sjjgfdaj 45
-move sfh 45
-move sid 96
-impl sgajdabb 96
-move scj 96
-move sid 23
-move sid 23
-move sba 58
-move scj 58
-impl sdghjidd 58
-move sdd 58
-move scj 96
-move sba 84
-move scj 96
-move sba 84
-impl sgideife 76
-move sci 76
-impl sfjegich 23
-move sid 23
-impl sgjeehaf 35
-move sjb 35
-move sgf 47
-impl sfafbdjh 47
-move sgg 47
-move sgf 24
-move sgf 24
-move scb 3
-move sei 3
-impl shhjgeic 3
-move sh 3
-move sei 90
-move scb 98
-move sei 90
-move scb 98
-move sfa 25
-move sig 25
-impl sdfidgej 25
-move sjc 25
-move sig 28
-move sfa 64
-move sig 28
-move sfa 64
-move sbb 39
-move seb 39
-move sfh 39
-impl sfccgcfj 39
-move sha 39
-move sfh 45
-move seb 32
-move sbb 2
-move sfh 45
-move seb 32
-move sbb 2
-impl sgaeceij 47
-move sgg 47
-move see 33
-impl seiibibb 33
-move sib 33
-move see 65
-move see 65
-impl sfdbieeg 46
-move sgj 46
-impl sjcahgcd 65
-move see 65
-move sbf 31
-move sid 31
-impl sjdicged 31
-move shj 31
-move sid 23
-move sbf 62
-move sid 23
-move sbf 62
-move sg 12
-move seh 12
-impl shjecgdi 12
-move sji 12
-move seh 57
-move sg 85
-move seh 57
-move sg 85
-impl sdagcda 83
-move sgi 83
-impl sfgbibff 53
-move shf 53
-impl sfaafcii 68
-move sbd 68
-impl sefbdfaj 31
-move shj 31
-impl sbhejibc 12
-move sji 12
-move sfc 42
+7
+impl sbafaddd 7
+wait 3
+impl sehddhbh 5
+wait 20
+impl sieihgfh 3
+wait 2
+impl seefaejg 5
+wait 3
+impl sfjifhbc 6
+wait 15
+impl scchabfi 1
+impl siegjghj 0
+wait 18
+impl shccaijg 0
+impl sgccaiej 8
+wait 16
+impl sfiadbjh 8
+wait 5
+impl sgiijdfi 7
+wait 22
+impl sdbdiajg 0
+wait 6
+impl scbabaea 4
+wait 21
+impl sbbaeccb 3
+impl sgcebgde 9
+impl sgicjcab 6
+wait 2
+impl sggbdfb 5
+impl seibbgfg 0
+impl sdefajde 5
+wait 5
+impl sedbgfdd 2
+wait 2
+impl seiiihec 2
+wait 6
+impl sdcegfed 7
+impl sdfggfdb 0
+wait 4
+impl sidbiffh 1
+wait 10
+impl sfjaiigd 1
+wait 3
+impl sbibdcbj 8
+wait 14
+impl sfdjahdj 9
+impl sgaafgah 2
+wait 2
+impl sdhcbjd 5
+wait 3
+impl sgaddfae 9
+wait 5
+impl sechehea 0
+8
+wait 14
+impl sghjdchf 1
+wait 8
+impl seccijb 3
+wait 6
+impl sjafgadj 0
+wait 16
+impl seifijji 3
+wait 11
+impl sfiijjei 7
+wait 11
+impl sdcebadc 6
+wait 1
+impl sjbcghib 7
+wait 2
+impl sdeeggdc 7
+wait 13
+impl sdfjfhed 7
+wait 12
+impl scfafehg 7
+wait 2
+impl sgiijdfi 8
+wait 5
+impl shddgdia 1
+wait 4
+impl seefeeca 9
+wait 4
+impl sgjbfbgh 7
+wait 5
+impl sjbbaajf 0
+wait 7
+impl sbaejjca 8
+wait 1
+impl sbgjefig 5
+wait 1
+impl sefhhgig 1
+wait 26
+impl sdefajde 9
+wait 6
+impl sjdebied 8
+wait 15
+impl sfccfjfb 9
+wait 9
+impl sebcifdh 2
+wait 8
+impl sdgbcijb 7
+wait 3
+impl sdicdgde 0
+wait 24
+impl sjbcaggc 0
+wait 13
+impl sfhjeche 5
+wait 8
+impl sieaecc 5
+wait 7
+impl sfhccjjf 2
+wait 1
+impl sffjacbg 8
+impl shbajheb 2
+wait 1
+impl siheijh 3
+9
+wait 1
+impl sgeijghc 8
+wait 9
+impl scbfcbhh 6
+impl sfgcajea 1
+wait 35
+impl scihbebh 7
+wait 8
+impl sbfhgghj 5
+wait 6
+impl sejhadfg 2
+wait 12
+impl sichffdi 1
+wait 4
+impl sfddjhfb 0
+wait 2
+impl sdhgdffi 2
+wait 7
+impl sjbabeja 6
+wait 1
+impl scdbbbgi 1
+wait 2
+impl sbgaaeij 2
+wait 8
+impl seefeeca 4
+wait 6
+impl sgjbfbgh 2
+wait 17
+impl sbjcbiie 5
+wait 19
+impl shbfagif 4
+wait 11
+impl sdbdgc 8
+impl sdefajde 3
+wait 2
+impl sjdebied 4
+wait 1
+impl sjjgcgch 3
+wait 8
+impl sdjdajbf 5
+wait 8
+impl sgdicide 1
+wait 3
+impl siebdad 7
+wait 12
+impl sehge 9
+impl sbbhicdg 9
+wait 4
+impl sbdeddid 2
+wait 6
+impl sfhcjabf 5
+wait 3
+impl shjigjeh 3
+wait 9
+impl sfhccjjf 5
+wait 20
+impl shbajheb 3
